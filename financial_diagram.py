@@ -31,3 +31,5 @@ annual_rent = rent * 12
 annual_bills = bills * 12
 annual_food = food * 12
 annual_travel = travel * 12
+
+print('hello')
